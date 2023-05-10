@@ -2,7 +2,7 @@
 
   "Visibility": "VISIBLE",
 
-  "Title": "Test",
+  "Title": "Testing",
 
   "Description": "Test Message",
 
@@ -14,6 +14,6 @@
 
   "DownloadLink": "www.example.com",
 
-  "Version": "1.2"
+  "Version": "1.3"
 
 }
